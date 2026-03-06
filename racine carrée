@@ -1,0 +1,17 @@
+algo  -  06.03.2026
+
+******************************************
+
+******************************************
+
+1   FONCTIONS_UTILISEES
+2   VARIABLES
+3     a EST_DU_TYPE NOMBRE
+4     b EST_DU_TYPE NOMBRE
+5   DEBUT_ALGORITHME
+6     AFFICHER a
+7     LIRE a
+8     AFFICHERCALCUL sqrt(a)
+9     b PREND_LA_VALEUR sqrt(a)
+10    AFFICHER b
+11  FIN_ALGORITHME
